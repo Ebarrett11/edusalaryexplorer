@@ -1,6 +1,6 @@
 # Edu Salary Explorer
 
-Edu Salary Explorer is a web application that provides transparent salary data for university employees. This tool enables users to explore, compare, and analyze salary information across multiple universities with interactive search and visualization features.
+[Edu Salary Explorer](https://edusalary.com/) is a web application that provides transparent salary data for university employees. This tool enables users to explore, compare, and analyze salary information across multiple universities with interactive search and visualization features.
 
 ## Features
 
@@ -29,7 +29,7 @@ Whether you're a prospective employee evaluating job offers, a researcher analyz
 
 ## Data Sources
 
-The salary data is sourced from publicly available records released by universities and government agencies. For more details, visit the [Data Sources](#) section on our website.
+The salary data is sourced from publicly available records released by universities and government agencies. For more details, visit the [Data Sources](https://edusalary.com/sources) section on our website.
 
 ## Contact
 
